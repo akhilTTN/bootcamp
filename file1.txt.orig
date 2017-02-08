@@ -1,4 +1,7 @@
 hello
 new file added in newBranch to show the diverge branches
+<<<<<<< HEAD
+=======
 
+>>>>>>> newBranch
 new line that is same
