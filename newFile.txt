@@ -1,4 +1,4 @@
-this is the file created in clone_of_git directory.
+the file created in clone_of_git directory.
 now this file will be pushed in the main directroy i.e. GitWorkingDir
 now i am changing the contents of the newFile form the git wali working directory
 then i will check the differences from the 2 files.
