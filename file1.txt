@@ -1,2 +1,3 @@
 hello
 new file added in newBranch to show the diverge branches
+adding same line
